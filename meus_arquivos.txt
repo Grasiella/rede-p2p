@@ -1,0 +1,3 @@
+a.txt ./arquivos_compartilhaveis/a.txt
+b.txt ./arquivos_compartilhaveis/a.txt
+int.png ./arquivos_compartilhaveis/int.png
